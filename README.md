@@ -38,3 +38,15 @@ Python code of the tested output of the deployed model:
         }
     ]
 }
+
+nodeRed url:
+https://node-red-dbxco-2020-10-24.eu-gb.mybluemix.net/red/#flow/d709258c.a84888
+
+Dataset name iotdata created from ML model deployed which is to be given as input in node Red flow:
+https://node-red-dbxco-2020-10-24.eu-gb.mybluemix.net/ui/#!/0?socketid=SqNNe4wqxE-FQlBVAAAh
+
+IoT platform sensor internal simulator activated results visualized from boards and cards created while running it:
+https://wy3fg4.internetofthings.ibmcloud.com/dashboard/boards/62696e84-b970-43bd-97c5-d452ce9073dd
+
+Event payload for the simulator activated:
+https://wy3fg4.internetofthings.ibmcloud.com/dashboard/devices/browse
