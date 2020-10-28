@@ -18,7 +18,7 @@ response_scoring = requests.post('https://eu-gb.ml.cloud.ibm.com/ml/v4/deploymen
 print("Scoring response")
 print(response_scoring.json())
 
-
+List of URL links:
 nodeRed url:
 https://node-red-dbxco-2020-10-24.eu-gb.mybluemix.net/red/#flow/d709258c.a84888
 
